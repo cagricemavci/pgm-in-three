@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "./pgm-in-three/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "./pgm-in-three/static/js/main.e7ffda99.chunk.js",
+    "main.js.map": "./pgm-in-three/static/js/main.e7ffda99.chunk.js.map",
+    "runtime-main.js": "./pgm-in-three/static/js/runtime-main.7580e0f7.js",
+    "runtime-main.js.map": "./pgm-in-three/static/js/runtime-main.7580e0f7.js.map",
+    "static/js/2.35296964.chunk.js": "./pgm-in-three/static/js/2.35296964.chunk.js",
+    "static/js/2.35296964.chunk.js.map": "./pgm-in-three/static/js/2.35296964.chunk.js.map",
+    "static/js/3.4c9187b0.chunk.js": "./pgm-in-three/static/js/3.4c9187b0.chunk.js",
+    "static/js/3.4c9187b0.chunk.js.map": "./pgm-in-three/static/js/3.4c9187b0.chunk.js.map",
+    "index.html": "./pgm-in-three/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "./pgm-in-three/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.35296964.chunk.js.LICENSE.txt": "./pgm-in-three/static/js/2.35296964.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "./pgm-in-three/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7580e0f7.js",
+    "static/js/2.35296964.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.e7ffda99.chunk.js"
+  ]
+}
